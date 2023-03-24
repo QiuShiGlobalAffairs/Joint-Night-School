@@ -4,11 +4,11 @@ module.exports = [
     link: '/'
   },
   {
-    text: '档案',
+    text: '教务',
     link: '/archives/'
   },
   {
-    text: '加入',
+    text: '报名',
     link: '/join/'
   }
 ];
