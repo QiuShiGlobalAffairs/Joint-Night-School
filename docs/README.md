@@ -101,6 +101,14 @@ footer: ICP备号 | © 2021-present 联合夜校
 </a-tooltip> 
 <a-tooltip placement="bottom">
   <template slot="title">
+    左岸
+  </template>
+  <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=1905709387&s=100" :size="54"/>
+</a-tooltip>   
+  
+</a-tooltip> 
+<a-tooltip placement="bottom">
+  <template slot="title">
     Bachelor
   </template>
   <a-avatar src="https://q1.qlogo.cn/g?b=qq&nk=1318011774&s=100" :size="54"/>
@@ -112,13 +120,13 @@ footer: ICP备号 | © 2021-present 联合夜校
 
 <p>&nbsp; </p> 
 
-## 志愿者：
+## 友情链接：
 
 <a-tooltip placement="bottom">
   <template slot="title">
-    卡尔蛙
+    星火文化社
   </template>
-  <a-avatar src="/assets/hudou.jpg" :size="54"/>
+  <a-avatar src="https://pbs.twimg.com/profile_images/1631350521163284482/iPCxktfz_400x400.jpg" :size="54"/>
 </a-tooltip>
 
 <p>&nbsp; </p> 
