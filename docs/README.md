@@ -35,7 +35,7 @@ footerWrap:
 - headline: 🧑🏿‍🤝‍🧑🏿友情链接
   items:
   - title: 球事  
-    link: https://internatioanlcommunism.com
+    link: https://internationalcommunism.com
     details: 球事编辑部·
   - title: 红码  
     link: https://rcit.org.cn/

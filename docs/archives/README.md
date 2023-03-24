@@ -12,14 +12,20 @@ title: 联合夜校
 
 ✩ 夜校鼓励学术探讨，研究具体问题，政治中立，我们坚持社会主义核心价值观 ✩
 
-## 学科建设
-各学科教学资源：
+## 各学科教学资源：
+
 https://pics.internationalcommunism.com/
 
-## 计划
+## 学科建设计划
 
-[待建设](/archives/plan)
+[夜校学科设置](/archives/plan.html)
+
+
+## 教务安排
+
+[教务系统](/archives/plan.html)
+
 
 ## 加入我们!
 
-[加入我们](/join)
+[加入我们](/join.html)
