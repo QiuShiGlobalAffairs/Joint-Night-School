@@ -2,7 +2,7 @@
 title: 联合夜校
 ---
 
-# RCIT 红码工合社
+# Joint Night School 联合夜校
 
 ::: tip 主张
 **✩ 口嗨冲塔请寻他处 ✩ 抽象辩经莫入此门 ✩**

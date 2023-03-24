@@ -7,8 +7,8 @@ export default {
     if (readkey == false || readkey == null) {
       localStorage.setItem('20210516', 'true');
       this.$notification.open({
-        message: "感谢您的关注",
-        description: "RCIT 工合社是一个以经济为主的先进合作社组织",
+        message: "为共产主义崛起而读书",
+        description: "✩ 口嗨冲塔请寻他处 ✩ 抽象辩经莫入此门 ✩",
 
         duration: 0,
         placement: "bottomRight",
