@@ -3,8 +3,8 @@ title: 学科建设
 ---
 # 联合夜校学科建设方案
 
-各学科教学资源：https://pics.internationalcommunism.com/
-
+各学科教学资源：
+<a href="https://pics.internationalcommunism.com/" >网盘链接</a>
 『编程学习组』✩ 无产阶级先锋队，主要分前端，后端，UI设计，产品，运维，运营，AI，数据挖掘 ✩
 
 『前沿科技组』✩ 人工智能，无人机，超算，5g，区块链 ✩
